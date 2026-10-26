@@ -1,7 +1,7 @@
 # KOUDRUPED in NVIDIA Isaac Lab
 
 <p align="center">
-  <img src="media/isaac_robot.jpg" width="80%" />
+  <img src="media/isaac_robot.jpeg" width="80%" />
 </p>
 <p align="center"><i>KOUDRUPED imported into NVIDIA Isaac Sim.</i></p>
 
